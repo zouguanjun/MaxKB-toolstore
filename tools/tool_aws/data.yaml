@@ -1,0 +1,5 @@
+name: AWS EC2 Pulumi 管理
+tags:
+  - 云资源管理
+title: 使用 Pulumi Automation API 管理 AWS EC2 实例
+description: 通过 Pulumi Automation API 实现对 AWS EC2 实例的创建、查询、更新和删除操作，支持 AK/SK 参数传入和自动操作识别
